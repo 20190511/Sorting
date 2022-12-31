@@ -5,7 +5,6 @@ https://www.acmicpc.net/problem/1715
  <<피드백>>
   1. 계속해서 Sorting되는 자료구조를 얻고싶다면 우선순위 큐를 이용하는 것이 편하다.
 
-
  <<heapq 사용법>>
  heap = [5,4,6,2,4,6,4]
   ->해당 리스트(heap)가 heapq 객체에 heap 형태로 들어가있다.
